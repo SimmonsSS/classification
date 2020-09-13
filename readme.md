@@ -1,0 +1,5 @@
+Acc
+Lenet5:99%(MNIST)
+Alexnet:67%(CIFAR10)
+VGG16:85%(CIFAR10)
+Resnet18:88%(CIFAR10)
